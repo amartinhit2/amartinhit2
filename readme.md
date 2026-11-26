@@ -1,4 +1,4 @@
-[README2.md](https://github.com/user-attachments/files/35486950/README2.md)
+[README.md](https://github.com/user-attachments/files/35486950/README2.md)
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:8b0000,100:ff2e63&height=260&section=header&text=AMARTINHIT2&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Piloto%20del%20Franxx%20%E2%9C%A6%20Shinigami%20del%20C%C3%B3digo&descAlignY=64&descSize=22&animation=twinkling&stroke=ff2e63&strokeWidth=2" width="100%" />
