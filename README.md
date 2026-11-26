@@ -34,8 +34,8 @@ base:       Plantation 13 · Navarra
 unidad:     Squad 13 · 13.ª División del Gotei 13
 franxx:     Strelizia (pareja: Code 002)
 zanpakuto:  Zangetsu.java
-shinigami:  Sustituto, estilo Ichigo Kurosaki
-espada:     Colosal, estilo Guts
+shinigami:  Sustituto
+espada:     Colosal
 mision:     Backends que resisten a cualquier Klaxosaur
 estado:     Sincronizacion estable
 ```
