@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35486906/README.md)
+[README2.md](https://github.com/user-attachments/files/35486950/README2.md)
 <!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:8b0000,100:ff2e63&height=260&section=header&text=AMARTINHIT2&fontSize=80&fontColor=ffffff&fontAlignY=42&desc=Piloto%20del%20Franxx%20%E2%9C%A6%20Shinigami%20del%20C%C3%B3digo&descAlignY=64&descSize=22&animation=twinkling&stroke=ff2e63&strokeWidth=2" width="100%" />
@@ -162,11 +162,6 @@ estado:     Sincronizacion estable
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:ff2e63,100:0d0d0d&height=3" width="100%" />
 
-## ⏱️ Entrenamiento en la Sociedad de Almas
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## 🎌 Código de honor del Shinigami
 
 ```diff
@@ -177,9 +172,11 @@ estado:     Sincronizacion estable
 ```
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amartinhit2&icon=0&color=0" alt="Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=amartinhit2&label=ALMAS%20QUE%20HAN%20PASADO%20POR%20AQU%C3%8D&color=ff2e63&style=for-the-badge" alt="Visitas" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff2e63,60:8b0000,100:0d0d0d&height=150&section=footer&text=%E5%8D%8D%E8%A7%A3&fontSize=50&fontColor=ffffff&fontAlignY=72&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Gracias+por+visitar+mi+Franxx+%E2%9C%A6;Nos+vemos+en+la+Sociedad+de+Almas+%E2%9A%94%EF%B8%8F" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:c2185b,100:ff2e63&height=170&section=footer&text=%E5%8D%8D%E8%A7%A3%20%E2%80%94%20BANKAI&fontSize=42&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" />
