@@ -159,13 +159,13 @@ ultimo_commit: en vivo arriba 👆
   <img src="https://img.shields.io/github/contributors/amartinhit2/Katanime-NuvioExtension?label=Pilotos&color=8b0000&style=flat-square" />
 </p>
 
-> 🔥 **Nota de registro:** el rango `C` lo calcula `github-readme-stats` con los
-> commits públicos. Antes se veía *"última contribución hace 2 años"* porque el
-> badge antiguo (`nirzak-streak-stats`) está caído (HTTP 402) y mostraba una
-> caché vieja. Ahora la racha y el último commit salen **en vivo** desde GitHub.
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amartinhit2&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://img.shields.io/badge/ICHIGO-BANKAI-%23ff2e63?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/002-DARLING-%23c2185b?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/SENBONZAKURA-%230d0d0d?style=for-the-badge&logo=github&logoColor=%23ff2e63" />
+  <img src="https://img.shields.io/badge/GOTEI__13-%238b0000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/STRELIZIA-400%25-%23ff2e63?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HUECO__MUNDO-%230d0d0d?style=for-the-badge&logo=lightning&logoColor=%23c2185b" />
 </p>
 
 <p align="center">
@@ -191,21 +191,36 @@ ultimo_commit: en vivo arriba 👆
 - Nunca hagas push a main un viernes por la noche.
 ```
 
-## 🌸 Referencias del piloto
+## 🌸 Frecuencia del Alma
 
-| Anime | Referencia en el hangar |
-| --- | --- |
-| **BLEACH** | Ichigo Kurosaki, Rukia, Byakuya y su `Senbonzakura`. Gotei 13, Soul Society y Hueco Mundo son el mapa de este expediente. |
-| **Darling in the Franxx** | 002 (Zero Two), Hiro y `Strelizia`. `CODE: 016`, Plantation 13, Squad 13 y el `SYNC_RATE` del header. |
-| **Shingeki no Kyojin** | Si el endpoint cambia, escalas el muro: se adaptan los selectores y se sigue avanzando. |
-| **Jujutsu Kaisen** | Dominio expansion de debugging: encuentras el bug y lo sellas con `999`. |
-| **NARUTO** | Los tests son el entrenamiento en el bosque: repetir hasta que el build salga limpio. |
-| **One Piece** | El repo es un viaje largo; cada commit es una isla. |
-| **Death Note** | Las reglas del linter se escriben una vez y se cumplen siempre. |
-| **Fullmetal Alchemist** | Igual que el equivalio: nada se crea de la nada, todo sale de un commit previo. |
-| **Violet Evergarden** | Documentar es escribir cartas para quien llegue después. |
-| **Cyberpunk: Edgerunners** | El contenedor endurecido es el chrome: corre rápido y sin privilegios. |
-| **Your Name. / Kimi no Na wa.** | Sincronía entre frontend y backend aunque estén en redes distintas. |
+<p align="center">
+  <img src="https://img.shields.io/badge/BLEACH-Ichigo-%23ff2e63?style=for-the-badge&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/RUKIA-Shinigami-%23c2185b?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/BYAKUYA-Senbonzakura-%230d0d0d?style=for-the-badge&logo=github&logoColor=%23ff2e63" />
+  <img src="https://img.shields.io/badge/002-Zero_Two-%23ff2e63?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/HIRO-Strelizia-%23c2185b?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/KLAXOSAUR-CODE__016-%238b0000?style=for-the-badge&logo=lightning&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SHINGEKI-Muro-%23ff2e63?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/JJK-999-%23c2185b?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/NARUTO-Rasengan-%23ff2e63?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/ONE__PIECE-Joy_Boy-%23c2185b?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEATH__NOTE-Rules-%230d0d0d?style=flat-square&logo=github&logoColor=%23ff2e63" />
+  <img src="https://img.shields.io/badge/FMA-Equivalencia-%238b0000?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VIOLET-Cartas-%23ff2e63?style=flat-square&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/EDGERUNNERS-Chrome-%23c2185b?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOUR__NAME-Sync-%230d0d0d?style=flat-square&logo=heart&logoColor=%23ff2e63" />
+  <img src="https://img.shields.io/badge/DAMIAN-Anime-%238b0000?style=flat-square&logo=heart&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2600&pause=900&color=FF6B9D&center=true&vCenter=true&width=820&lines=Ichigo%3A+BANKAI!;002%3A+quien+es+tu+darling%3F;Rukia%3A+sonrie%2C+estas+vivo;Byakuya%3A+Senbonzakura+Kage+Yoshi;Hiro%3A+vamos+a+despegar;Squad+13%3A+sincronizacion+al+100%25" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amartinhit2&label=ALMAS%20QUE%20HAN%20PASADO%20POR%20AQU%C3%8D&color=ff2e63&style=for-the-badge" alt="Visitas" />
