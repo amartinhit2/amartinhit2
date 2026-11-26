@@ -212,18 +212,10 @@ estado:     Sincronizacion estable
   <img src="assets/badges-v2/hiro.svg" />
 </p>
 
-<p align="center">
-  <img src="assets/badges-v2/snk.svg" />
-  <img src="assets/badges-v2/naruto.svg" />
-  <img src="assets/badges-v2/onepiece.svg" />
-  <img src="assets/badges-v2/deathnote.svg" />
-  <img src="assets/badges-v2/fma.svg" />
-</p>
+<p align="center"><b>📚 Lecciones de otros mundos</b></p>
 
 <p align="center">
-  <img src="assets/badges-v2/violet.svg" />
-  <img src="assets/badges-v2/edgerunners.svg" />
-  <img src="assets/badges-v2/damian.svg" />
+  <img src="assets/anime/watchlist.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -235,7 +227,7 @@ estado:     Sincronizacion estable
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Gracias+por+visitar+mi+Franxx+%E2%9C%A6;Nos+vemos+en+la+Sociedad+de+Almas+%E2%9A%94%EF%B8%8F;Damian%2C+Ichigo+y+002%3A+%C2%A1siempre+sincronizados!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=700&lines=Gracias+por+visitar+mi+Franxx+%E2%9C%A6;Nos+vemos+en+la+Sociedad+de+Almas+%E2%9A%94%EF%B8%8F;Hiro+y+Zero+Two%3A+%C2%A1siempre+sincronizados!" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:c2185b,100:ff2e63&height=170&section=footer&text=%E5%8D%8D%E8%A7%A3%20%E2%80%94%20BANKAI%20%C3%97%20002&fontSize=42&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" />
