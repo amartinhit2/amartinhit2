@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="28" viewBox="0 0 184 28" role="img" aria-label="KATANIME V1.2.0">
+<title>KATANIME V1.2.0</title>
+<clipPath id="r"><rect width="184" height="28" rx="4"/></clipPath>
+<g clip-path="url(#r)"><rect width="114.2" height="28" fill="#161b22"/><rect x="114.2" width="69.8" height="28" fill="#8b0000"/>
+<rect x="112.7" width="1.5" height="28" fill="#ff2e63" opacity=".8"/></g>
+<g transform="translate(12,7.0) scale(0.5833333333333334)" fill="#fff"><path d="M12 0a1.2 1.2 0 0 0-.85.354L.353 11.15c-.47.47-.47 1.227 0 1.697l10.797 10.8a1.2 1.2 0 0 0 1.7 0l10.797-10.8c.47-.47.47-1.226 0-1.696L12.85.354A1.2 1.2 0 0 0 12 0m-1.674 7.586h.002a.2.2 0 0 1 .129.04l5.729 4.214a.2.2 0 0 1 0 .323l-5.73 4.213a.2.2 0 0 1-.317-.16v-8.43a.2.2 0 0 1 .187-.2"/></g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" fill="#fff" style="letter-spacing:1.6px;">
+<text x="32.0" y="18" textLength="70.2" lengthAdjust="spacingAndGlyphs">KATANIME</text>
+<text x="126.2" y="18" textLength="45.8" lengthAdjust="spacingAndGlyphs">V1.2.0</text></g></svg>

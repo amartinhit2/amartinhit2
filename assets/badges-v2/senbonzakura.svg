@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="28" viewBox="0 0 242 28" role="img" aria-label="BYAKUYA SENBONZAKURA">
+<title>BYAKUYA SENBONZAKURA</title>
+<clipPath id="r"><rect width="242" height="28" rx="4"/></clipPath>
+<g clip-path="url(#r)"><rect width="106.0" height="28" fill="#161b22"/><rect x="106.0" width="136.2" height="28" fill="#0d0d0d"/>
+<rect x="104.5" width="1.5" height="28" fill="#ff2e63" opacity=".8"/></g>
+<g transform="translate(12,7.0) scale(0.5833333333333334)" fill="#ff9ecb"><path d="M3 13a9 9 0 0 0 9 9c0-5-4.03-9-9-9m9-7.5A2.5 2.5 0 0 1 14.5 8a2.5 2.5 0 0 1-2.5 2.5A2.5 2.5 0 0 1 9.5 8 2.5 2.5 0 0 1 12 5.5m-6.4 4.75a2.5 2.5 0 0 0 2.5 2.5c.53 0 1.02-.17 1.4-.44v.19A2.5 2.5 0 0 0 12 15a2.5 2.5 0 0 0 2.5-2.5v-.19c.38.27.87.44 1.4.44a2.5 2.5 0 0 0 2.5-2.5c0-1-.59-1.85-1.43-2.25.84-.4 1.43-1.26 1.43-2.25a2.5 2.5 0 0 0-2.5-2.5c-.53 0-1.02.16-1.4.44V3.5A2.5 2.5 0 0 0 12 1a2.5 2.5 0 0 0-2.5 2.5v.19c-.38-.28-.87-.44-1.4-.44a2.5 2.5 0 0 0-2.5 2.5c0 .99.59 1.85 1.43 2.25-.84.4-1.43 1.25-1.43 2.25M12 22a9 9 0 0 0 9-9c-5 0-9 4-9 9"/></g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" fill="#fff" style="letter-spacing:1.6px;">
+<text x="32.0" y="18" textLength="62.0" lengthAdjust="spacingAndGlyphs">BYAKUYA</text>
+<text x="118.0" y="18" textLength="112.2" lengthAdjust="spacingAndGlyphs">SENBONZAKURA</text></g></svg>

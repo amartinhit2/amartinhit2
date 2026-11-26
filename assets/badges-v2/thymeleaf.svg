@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="229" height="28" viewBox="0 0 229 28" role="img" aria-label="THYMELEAF TEMPLATES">
+<title>THYMELEAF TEMPLATES</title>
+<clipPath id="r"><rect width="229" height="28" rx="4"/></clipPath>
+<g clip-path="url(#r)"><rect width="125.4" height="28" fill="#161b22"/><rect x="125.4" width="103.5" height="28" fill="#005c0f"/>
+<rect x="123.9" width="1.5" height="28" fill="#ff2e63" opacity=".8"/></g>
+<g transform="translate(12,7.0) scale(0.5833333333333334)" fill="#fff"><path d="M1.727 0C.782 0 .02.761.02 1.707v20.586C.02 23.24.782 24 1.727 24h20.546c.945 0 1.707-.761 1.707-1.707V1.707C23.98.76 23.218 0 22.273 0zm18.714 3.273c-1.861 3.694-3.3 7.627-5.674 11.046-1.064 1.574-2.329 3.163-4.16 3.86-1.31.552-2.936.337-3.98-.647-.628-.523-.54-1.43-.173-2.075.96-1.224 2.34-2.02 3.59-2.915 3.842-2.625 7.446-5.654 10.397-9.27zm-1.693 1.25c-2.503 2.751-5.381 5.16-8.452 7.269l-.003.002-.003.003c-1.327.979-2.835 1.824-3.993 3.114-.349.333-.583 1.042-.537 1.481-.622-1.043-.8-2.614-.257-3.74.526-1.19 1.742-1.807 2.876-2.292 3.757-1.353 6.695-2.926 10.369-5.836z"/></g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" fill="#fff" style="letter-spacing:1.6px;">
+<text x="32.0" y="18" textLength="81.4" lengthAdjust="spacingAndGlyphs">THYMELEAF</text>
+<text x="137.4" y="18" textLength="79.5" lengthAdjust="spacingAndGlyphs">TEMPLATES</text></g></svg>

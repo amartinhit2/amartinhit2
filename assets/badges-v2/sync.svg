@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="182" height="28" viewBox="0 0 182 28" role="img" aria-label="SYNC RATE 400%">
+<title>SYNC RATE 400%</title>
+<clipPath id="r"><rect width="182" height="28" rx="4"/></clipPath>
+<g clip-path="url(#r)"><rect width="120.4" height="28" fill="#161b22"/><rect x="120.4" width="61.3" height="28" fill="#c2185b"/>
+<rect x="118.9" width="1.5" height="28" fill="#ff2e63" opacity=".8"/></g>
+<g transform="translate(12,7.0) scale(0.5833333333333334)" fill="#ff6b9d"><path d="M7.5 4A5.5 5.5 0 0 0 2 9.5c0 .5.09 1 .22 1.5H6.3l1.27-3.37c.3-.8 1.48-.88 1.86 0L11.5 13l.59-1.42c.13-.33.48-.58.91-.58h8.78c.13-.5.22-1 .22-1.5A5.5 5.5 0 0 0 16.5 4c-1.86 0-3.5.93-4.5 2.34C11 4.93 9.36 4 7.5 4M3 12.5a1 1 0 0 0-1 1 1 1 0 0 0 1 1h2.44L11 20c1 .9 1 .9 2 0l5.56-5.5H21a1 1 0 0 0 1-1 1 1 0 0 0-1-1h-7.6l-.93 2.3c-.4 1.01-1.55.87-1.92.03L8.5 9.5l-.96 2.33c-.15.38-.49.67-.94.67z"/></g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" fill="#fff" style="letter-spacing:1.6px;">
+<text x="32.0" y="18" textLength="76.4" lengthAdjust="spacingAndGlyphs">SYNC RATE</text>
+<text x="132.4" y="18" textLength="37.3" lengthAdjust="spacingAndGlyphs">400%</text></g></svg>

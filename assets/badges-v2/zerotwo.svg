@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="167" height="28" viewBox="0 0 167 28" role="img" aria-label="002 ZERO TWO">
+<title>002 ZERO TWO</title>
+<clipPath id="r"><rect width="167" height="28" rx="4"/></clipPath>
+<g clip-path="url(#r)"><rect width="69.7" height="28" fill="#161b22"/><rect x="69.7" width="96.9" height="28" fill="#ff2e63"/>
+<rect x="68.2" width="1.5" height="28" fill="#ff2e63" opacity=".8"/></g>
+<g transform="translate(12,7.0) scale(0.5833333333333334)" fill="#fff"><path d="m12 21.35-1.45-1.32C5.4 15.36 2 12.27 2 8.5 2 5.41 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.08C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.41 22 8.5c0 3.77-3.4 6.86-8.55 11.53z"/></g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="10" font-weight="bold" fill="#fff" style="letter-spacing:1.6px;">
+<text x="32.0" y="18" textLength="25.7" lengthAdjust="spacingAndGlyphs">002</text>
+<text x="81.7" y="18" textLength="72.9" lengthAdjust="spacingAndGlyphs">ZERO TWO</text></g></svg>

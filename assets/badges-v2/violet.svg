@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="20" viewBox="0 0 109 20" role="img" aria-label="Violet Cartas">
+<title>Violet Cartas</title>
+<clipPath id="r"><rect width="109" height="20" rx="3"/></clipPath>
+<g clip-path="url(#r)"><rect width="61.2" height="20" fill="#161b22"/><rect x="61.2" width="47.7" height="20" fill="#4f7cff"/>
+<rect x="59.7" width="1.5" height="20" fill="#ff2e63" opacity=".8"/></g>
+<g transform="translate(6,4.0) scale(0.5)" fill="#fff"><path d="M22 6c0-1.1-.9-2-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2zm-2 0-8 5-8-5zm0 12H4V8l8 5 8-5z"/></g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11" font-weight="normal" fill="#fff" style="">
+<text x="24.0" y="14" textLength="31.2" lengthAdjust="spacingAndGlyphs">Violet</text>
+<text x="67.2" y="14" textLength="35.7" lengthAdjust="spacingAndGlyphs">Cartas</text></g></svg>
