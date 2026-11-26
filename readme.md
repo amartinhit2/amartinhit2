@@ -8,15 +8,15 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/rango-capit-n-del-backend-for-the-badge-ff2e63-7d67d0f1.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/reiatsu-over-9000-for-the-badge-8b0000-243c3877.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/sync-rate-400-for-the-badge-c2185b-b8e0ce21.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/rango-capit-n-del-backend-for-the-badge-ff2e63-7d67d0f1.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/reiatsu-over-9000-for-the-badge-8b0000-243c3877.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/sync-rate-400-for-the-badge-c2185b-b8e0ce21.svg?v=2" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/ltimo-commit-katanime-v1-2-0-for-the-badge-8b0000-13decefb.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/perfil-perfil-main-for-the-badge-8b0000-579763a3.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/actividad-43-commits-a-o-for-the-badge-8b0000-d109f848.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/ltimo-commit-katanime-v1-2-0-for-the-badge-8b0000-13decefb.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/perfil-perfil-main-for-the-badge-8b0000-579763a3.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/actividad-43-commits-a-o-for-the-badge-8b0000-d109f848.svg?v=2" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:ff2e63,100:0d0d0d&height=3" width="100%" />
@@ -72,9 +72,9 @@ ultimo_commit: en vivo arriba 👆
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javalin-for-the-badge-0d0d0d-d0fb4304.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/freemarker-for-the-badge-0d0d0d-e0a414d6.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/thymeleaf-for-the-badge-005c0f-03f8bd7e.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javalin-for-the-badge-0d0d0d-d0fb4304.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/freemarker-for-the-badge-0d0d0d-e0a414d6.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/thymeleaf-for-the-badge-005c0f-03f8bd7e.svg?v=2" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:ff2e63,100:0d0d0d&height=3" width="100%" />
@@ -97,15 +97,15 @@ ultimo_commit: en vivo arriba 👆
 <td align="center" width="50%">
 <h3>📺 Katanime × Nuvio</h3>
 <sub>Extensión para Nuvio y Stremio: catálogo<br/>de Katanime con streams desde MEGA.<br/>v1.2.0 con escudo anti-Abuso y Funnel.</sub><br/><br/>
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javascript-flat-square-f7df1e-46be3f26.svg" />
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/mega-flat-square-d9272e-0a66e364.svg" />
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/v1-2-0-flat-square-ff2e63-4c09dc04.svg" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javascript-flat-square-f7df1e-46be3f26.svg?v=2" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/mega-flat-square-d9272e-0a66e364.svg?v=2" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/v1-2-0-flat-square-ff2e63-4c09dc04.svg?v=2" />
 </td>
 <td align="center" width="50%">
 <h3>🧱 Tetris</h3>
 <sub>El clásico de bloques<br/>directo en el navegador.<br/>Como el Heroínas: una pieza a la vez.</sub><br/><br/>
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/html5-flat-square-e34f26-2d39c21c.svg" />
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javascript-flat-square-f7df1e-46be3f26.svg" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/html5-flat-square-e34f26-2d39c21c.svg?v=2" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javascript-flat-square-f7df1e-46be3f26.svg?v=2" />
 </td>
 </tr>
 </table>
@@ -117,25 +117,25 @@ ultimo_commit: en vivo arriba 👆
 <td align="center" width="25%">
 <h3>🌑 Hueco Mundo</h3>
 <sub>Top-down en pixel art<br/>mundo oscuro y rocoso</sub><br/><br/>
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/unity-flat-square-000000-b1539d4b.svg" />
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/c-flat-square-239120-83a8e0bb.svg" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/unity-flat-square-000000-b1539d4b.svg?v=2" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/c-flat-square-239120-83a8e0bb.svg?v=2" />
 </td>
 <td align="center" width="25%">
 <h3>🌋 Isla del Volcán</h3>
 <sub>Juego 3D<br/>¡Llega a la meta como Ichigo!</sub><br/><br/>
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/unity-flat-square-000000-b1539d4b.svg" />
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/c-flat-square-239120-83a8e0bb.svg" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/unity-flat-square-000000-b1539d4b.svg?v=2" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/c-flat-square-239120-83a8e0bb.svg?v=2" />
 </td>
 <td align="center" width="25%">
 <h3>🏠 Web tipo Airbnb</h3>
 <sub>Plataforma de alojamientos<br/>con APIs externas</sub><br/><br/>
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/java-flat-square-ed8b00-ec1c7972.svg" />
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/thymeleaf-flat-square-005c0f-556518bf.svg" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/java-flat-square-ed8b00-ec1c7972.svg?v=2" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/thymeleaf-flat-square-005c0f-556518bf.svg?v=2" />
 </td>
 <td align="center" width="25%">
 <h3>⚙️ Javalin Core</h3>
 <sub>Backend a gran escala<br/>con plantillas</sub><br/><br/>
-<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javalin-flat-square-0d0d0d-6874a801.svg" />
+<img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/javalin-flat-square-0d0d0d-6874a801.svg?v=2" />
 </td>
 </tr>
 </table>
@@ -154,18 +154,18 @@ ultimo_commit: en vivo arriba 👆
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/ultimo-commit-katanime-v1-2-0-flat-square-8b0000-ab1fa4e3.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/commits-a-o-43-commits-a-o-flat-square-8b0000-eed3f838.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/pilotos-1-flat-square-8b0000-2821eeca.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/ultimo-commit-katanime-v1-2-0-flat-square-8b0000-ab1fa4e3.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/commits-a-o-43-commits-a-o-flat-square-8b0000-eed3f838.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/pilotos-1-flat-square-8b0000-2821eeca.svg?v=2" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/ichigo-bankai-for-the-badge-ff2e63-4a5f7e4f.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/002-darling-for-the-badge-c2185b-fac3b0be.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/senbonzakura-for-the-badge-0d0d0d-d43cbfbe.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/gotei-13-for-the-badge-8b0000-f75ca92b.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/strelizia-400-for-the-badge-ff2e63-dd9cd5fd.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/hueco-mundo-for-the-badge-0d0d0d-5d6c0939.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/ichigo-bankai-for-the-badge-ff2e63-4a5f7e4f.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/002-darling-for-the-badge-c2185b-fac3b0be.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/senbonzakura-for-the-badge-0d0d0d-d43cbfbe.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/gotei-13-for-the-badge-8b0000-f75ca92b.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/strelizia-400-for-the-badge-ff2e63-dd9cd5fd.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/hueco-mundo-for-the-badge-0d0d0d-5d6c0939.svg?v=2" />
 </p>
 
 <p align="center">
@@ -194,28 +194,28 @@ ultimo_commit: en vivo arriba 👆
 ## 🌸 Frecuencia del Alma
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/bleach-ichigo-for-the-badge-ff2e63-1fbb6fb1.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/rukia-shinigami-for-the-badge-c2185b-7c08e1b3.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/byakuya-senbonzakura-for-the-badge-0d0d0d-e8d0d3cd.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/002-zero-two-for-the-badge-ff2e63-f817b2ac.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/hiro-strelizia-for-the-badge-c2185b-ef8aeb4f.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/klaxosaur-code-016-for-the-badge-8b0000-5aea3cbf.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/bleach-ichigo-for-the-badge-ff2e63-1fbb6fb1.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/rukia-shinigami-for-the-badge-c2185b-7c08e1b3.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/byakuya-senbonzakura-for-the-badge-0d0d0d-e8d0d3cd.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/002-zero-two-for-the-badge-ff2e63-f817b2ac.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/hiro-strelizia-for-the-badge-c2185b-ef8aeb4f.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/klaxosaur-code-016-for-the-badge-8b0000-5aea3cbf.svg?v=2" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/shingeki-muro-flat-square-ff2e63-6dda2be2.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/jjk-999-flat-square-c2185b-674b8bbf.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/naruto-rasengan-flat-square-ff2e63-83566192.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/one-piece-joy-boy-flat-square-c2185b-e72406d1.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/death-note-rules-flat-square-0d0d0d-adc39bc0.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/fma-equivalencia-flat-square-8b0000-ad75d6c5.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/shingeki-muro-flat-square-ff2e63-6dda2be2.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/jjk-999-flat-square-c2185b-674b8bbf.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/naruto-rasengan-flat-square-ff2e63-83566192.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/one-piece-joy-boy-flat-square-c2185b-e72406d1.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/death-note-rules-flat-square-0d0d0d-adc39bc0.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/fma-equivalencia-flat-square-8b0000-ad75d6c5.svg?v=2" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/violet-cartas-flat-square-ff2e63-d96b3c47.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/edgerunners-chrome-flat-square-c2185b-fd851ea9.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/your-name-sync-flat-square-0d0d0d-fcd1525f.svg" />
-  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/damian-anime-flat-square-8b0000-7640ba85.svg" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/violet-cartas-flat-square-ff2e63-d96b3c47.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/edgerunners-chrome-flat-square-c2185b-fd851ea9.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/your-name-sync-flat-square-0d0d0d-fcd1525f.svg?v=2" />
+  <img src="https://raw.githubusercontent.com/amartinhit2/amartinhit2/main/assets/badges/damian-anime-flat-square-8b0000-7640ba85.svg?v=2" />
 </p>
 
 <p align="center">
